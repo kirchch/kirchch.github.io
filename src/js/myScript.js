@@ -9,6 +9,3 @@ let adaptability  = prompt("Выберите адаптивность сайта
 
 
 
-if () {
-    
-    }
